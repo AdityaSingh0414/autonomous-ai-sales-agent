@@ -1,0 +1,24 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# Data and databases
+data/*.db
+data/*.sqlite
+data/*.wav
+data/*.webm
+data/*.mp3

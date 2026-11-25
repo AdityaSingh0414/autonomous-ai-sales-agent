@@ -1,0 +1,11 @@
+Product Name: AI Sales Assistant
+
+Features:
+- Automated customer interaction
+- Lead qualification
+- Voice-based communication
+- Appointment scheduling
+- Customer support
+
+Target Customers:
+Small businesses and enterprises.
